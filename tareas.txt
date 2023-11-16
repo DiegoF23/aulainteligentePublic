@@ -1,0 +1,14 @@
+estudiar como es la vision computadora...
+
+averiguar como crear una red neuronal de cero y entrenarla para reconocer ciertos objetos
+como personas y animales
+
+crear red neuronal para control de temperatura y de flujo de energia
+
+averiguar como controlar objetos fisicos con python led/switch
+
+reduccion de cuadros por segundo, reducir resolucion de la camara
+
+crear web shocket entre servidor pyhton y js
+
+desarrollo api en pyhton
